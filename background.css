@@ -26,7 +26,8 @@ h1 {
     height: 200px;
 }
 .legend {
-	margin-left: 47%;
+	margin-left: 42%;
+	text-align: center;
 	font-weight: bold;
 	text-decoration-line: underline;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
