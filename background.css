@@ -1,0 +1,79 @@
+@charset "utf-8";
+body {
+    background-color: #BFDBFF;
+}
+h1 {
+	font-style: italic;
+	font-weight: 1000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: #C9274C;
+	text-align: center;
+}
+.nameEmail {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    text-align: right;
+
+}
+.messageHere {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	margin-right: 106px;
+}
+.bigmessage {
+	text-align: right;
+}
+.messagebox {
+    width: 300px;
+    height: 200px;
+}
+.legend {
+	margin-left: 47%;
+	font-weight: bold;
+	text-decoration-line: underline;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.indexName {
+	text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+#userInfo {
+	border: 0px;
+}
+#submit {
+	border: 0px;
+}
+
+@media screen{
+	.Dad {
+		margin-left: 1000px;
+	}
+	.Des { 
+		margin-left: 1000px;
+	}
+	.Eden {
+		margin-left: 1000px;
+	}
+.contactbody {
+	background-image: url("assets/contact.jpg");
+	background-size: cover;
+	background-position: 50% -400%;
+	background-repeat: no-repeat;
+	}
+.intro_paragraph {
+	outline: auto;
+	outline-offset: 8px;
+	outline-style: dotted;
+	outline-color: #E21654;
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 27%;
+	text-align: center;
+}
+	}
+
+}
