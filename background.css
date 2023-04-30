@@ -57,6 +57,23 @@ h1 {
 	.Eden {
 		margin-left: 1000px;
 	}
+	.dadpic {
+		margin-left: -250px;
+		margin-bottom: -25px;
+	}
+	.despic {
+		margin-left: -250px;
+		margin-bottom: -25px;
+		
+	}
+	.edenpic {
+		margin-left: -250px;
+		margin-bottom: -25px;
+	}
+	.left {
+		margin-left: 10px;
+		margin-bottom: -25px;
+	}
 .contactbody {
 	background-image: url("assets/contact.jpg");
 	background-size: cover;
