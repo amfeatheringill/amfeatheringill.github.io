@@ -46,6 +46,16 @@ h1 {
 #submit {
 	border: 0px;
 }
+.hike {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.melee {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 @media screen{
 	.Dad {
@@ -59,11 +69,11 @@ h1 {
 	}
 	.dadpic {
 		margin-left: -250px;
-		margin-bottom: -25px;
+		margin-bottom: -50px;
 	}
 	.despic {
 		margin-left: -250px;
-		margin-bottom: -25px;
+		margin-bottom: -60px;
 		
 	}
 	.edenpic {
